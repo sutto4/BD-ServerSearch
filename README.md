@@ -4,6 +4,19 @@ Search your Discord servers from a dedicated sidebar panel, with server icons an
 
 **Experimental BetterDiscord plugin · Version 1.1.1 · Personal project by [sutto4](https://github.com/sutto4)**
 
+## Preview
+
+Type to filter your server list, or switch to saved favorites.
+
+![Search for Mr showing two matching servers with icons](docs/images/server-search.png)
+
+<details>
+<summary>View the full server list</summary>
+
+![ServerSearch panel showing the full server list with icons and favorite controls](docs/images/server-list.png)
+
+</details>
+
 ## Features
 
 - Search all joined servers, including servers inside collapsed folders.
